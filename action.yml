@@ -1,5 +1,5 @@
 name: "Checks for Node"
-description: 'Pretends to copy some files and return the number of files copied'
+description: "Pretends to copy some files and return the number of files copied"
 
 runs:
   using: "composite"
